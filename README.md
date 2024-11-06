@@ -5,8 +5,13 @@ Cài Đặt
 Đảm bảo rằng bạn đã cài đặt Swift và có thể truy cập từ dòng lệnh.
 
 Cài đặt thư viện từ PyPI:
-Link github: https://github.com/hqmdokkai/swiftonpython.git
+Link github:
+```bash
+https://github.com/hqmdokkai/swiftonpython.git
+```
+```bash
 pip install swiftonpython
+```
 Sử Dụng
 Sau khi cài đặt, bạn chỉ cần import thư viện và thực thi mã Swift trực tiếp từ Python.
 
