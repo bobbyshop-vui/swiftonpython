@@ -46,10 +46,10 @@ def read_long_description():
 # Thiết lập gói Python và phần mở rộng
 setup(
     name='swiftonpython',
-    version='0.6',
+    version='0.8',
     description='A Python library to run Swift code',
     author='Bobby',
-    url='https://github.com/hqmdokkai/swiftonpython.git',
+    url='https://github.com/bobbyshop-vui/swiftonpython',
     packages=find_packages(),
     cmdclass={'build_ext': BuildSwiftExtension},
     long_description=read_long_description(),
